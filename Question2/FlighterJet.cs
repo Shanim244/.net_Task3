@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Task3Quest2
+namespace Task3
 {
     // Shani Maroz
     // 211579263
